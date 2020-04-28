@@ -1,0 +1,5 @@
+include plottwist/tools/outliner/__logging__.ini
+include plottwist/tools/outliner/resources/icons/*.*
+include plottwist/tools/outliner/resources/images/*.*
+include plottwist/tools/outliner/_version.py
+include versioneer.py
